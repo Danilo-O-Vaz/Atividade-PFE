@@ -1,0 +1,87 @@
+{
+  "title": "Qual personagem de Dragon Ball Z você seria?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Qual técnica de luta você prefere?",
+      "options": [
+        { "id": 1, "name": "Kamehameha", "alias": "A" },
+        { "id": 2, "name": "Galick Ho", "alias": "B" },
+        { "id": 3, "name": "Final Flash", "alias": "C" },
+        { "id": 4, "name": "Destructo Disc", "alias": "D" },
+        { "id": 5, "name": "Death Beam", "alias": "E" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual é o seu objetivo principal?",
+      "options": [
+        { "id": 1, "name": "Proteger a Terra", "alias": "A" },
+        { "id": 2, "name": "Conquistar o universo", "alias": "B" },
+        { "id": 3, "name": "Superar meus limites", "alias": "C" },
+        { "id": 4, "name": "Vingança", "alias": "D" },
+        { "id": 5, "name": "Dominar e destruir", "alias": "E" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Como você lida com seus inimigos?",
+      "options": [
+        { "id": 1, "name": "Compaixão", "alias": "A" },
+        { "id": 4, "name": "Fúria", "alias": "D" },
+        { "id": 3, "name": "Estratégia e técnica", "alias": "C" },
+        { "id": 5, "name": "Crueldade e desprezo", "alias": "E" },
+        { "id": 2, "name": "Poder total", "alias": "B" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual é o seu treinamento preferido?",
+      "options": [
+        { "id": 3, "name": "Treino com mestre", "alias": "C" },
+        { "id": 2, "name": "Sala do Tempo", "alias": "B" },
+        { "id": 1, "name": "Gravidade aumentada", "alias": "A" },
+        { "id": 4, "name": "Treino solitário", "alias": "D" },
+        { "id": 5, "name": "Treinamento em naves espaciais", "alias": "E" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual transformação você prefere?",
+      "options": [
+        { "id": 2, "name": "Forma Final", "alias": "B" },
+        { "id": 1, "name": "Super Saiyajin", "alias": "A" },
+        { "id": 4, "name": "Oozaru", "alias": "D" },
+        { "id": 3, "name": "Ultra Instinto", "alias": "C" },
+        { "id": 5, "name": "Golden Freeza", "alias": "E" }
+      ]
+    }
+  ],
+  "results": {
+    "A": {
+      "description": "Você seria Goku! Sempre lutando para proteger os outros e melhorar a si mesmo.",
+      "image": "../../assets/imgs/goku.gif",
+      "errorImage": "../../assets/imgs/goku.jpg"
+    },
+    "B": {
+      "description": "Você seria Vegeta! Orgulhoso, poderoso e sempre buscando ser o melhor.",
+      "image": "../../assets/imgs/vejeta.gif",
+      "errorImage": "../../assets/imgs/vegeta.jpg"
+    },
+    "C": {
+      "description": "Você seria Gohan! Inteligente, estratégico e com um poder oculto impressionante.",
+      "image": "../../assets/imgs/gohan.gif",
+      "errorImage": "../../assets/imgs/gohan.jpg"
+    },
+    "D": {
+      "description": "Você seria Piccolo! Sábio, técnico e com um senso de honra forte.",
+      "image": "../../assets/imgs/piccolo.gif",
+      "errorImage": "../../assets/imgs/piccolo.jpg"
+    },
+    "E": {
+      "description": "Você seria Freeza! Cruel, ambicioso e um mestre em destruição e dominação.",
+      "image": "../../assets/imgs/freeza.gif",
+      "errorImage": "../../assets/imgs/freeza.jpg"
+    }
+  }
+}

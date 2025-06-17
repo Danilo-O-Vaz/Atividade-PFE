@@ -1,42 +1,79 @@
-# Quiz Dragon Ball
+# 🐉 Quiz Dragon Ball Z
 
-Este projeto é um quiz interativo baseado no universo de Dragon Ball, desenvolvido como parte do Bootcamp de Desenvolvimento Frontend com Angular promovido pelo Banco Pan. O objetivo deste projeto é criar uma aplicação web divertida e envolvente que teste os conhecimentos dos fãs sobre a série.
+Bem-vindo ao **Quiz Dragon Ball**, um projeto desenvolvido durante a atividade de Desenvolvimento Frontend com Angular promovido pelo **Professor Flores**.  
 
-## Tecnologias Utilizadas
+Este é um quiz interativo e divertido, feito especialmente para testar seus conhecimentos sobre o universo épico de **Dragon Ball**! Prepare-se para reviver batalhas lendárias, relembrar personagens marcantes e descobrir se você realmente merece carregar o título de **Super Sayajin do conhecimento!** 🥇✨
 
-- Angular
-- TypeScript
-- HTML
-- CSS
-- Tailwind CSS
+---
 
-## Funcionalidades
+## 🚀 Tecnologias Utilizadas
 
-- Perguntas variadas sobre o universo de Dragon Ball
-- Opções de resposta em botões interativos
-- Exibição de resultado com base nas respostas
-- Imagem e descrição personalizadas para cada resultado
-- Design responsivo e estilizado com Tailwind CSS
-- Animações suaves
+- ⚙️ **Angular** — Framework principal
+- 🔥 **TypeScript** — Superconjunto de JavaScript tipado
+- 🎨 **HTML + CSS** — Estrutura e estilos básicos
+- 💨 **Tailwind CSS** — Estilização rápida e responsiva
+- ⚡ **Animações CSS** — Transições suaves e interativas
 
-## Live
+---
 
-https://angular-quiz-six.vercel.app/
+## 🎯 Funcionalidades
 
-## Como Executar
+- 🧠 Perguntas variadas sobre o universo **Dragon Ball**
+- 🎯 Opções de respostas através de **botões interativos**
+- 📊 Sistema de pontuação e avaliação de desempenho
+- 🏆 **Imagem e descrição personalizada** de acordo com seu resultado final
+- 📱 **Design responsivo** para qualquer dispositivo (desktop, tablet ou mobile)
+- ✨ Animações suaves que deixam a navegação mais dinâmica
 
-Para executar o projeto localmente, siga estas etapas:
+---
+
+## 🔥 Acesse o projeto online!
+
+👉 **[Clique aqui para jogar!](https://angular-quiz-six.vercel.app/)**  
+Desafie seus amigos e veja quem é o maior fã de Dragon Ball! 💪
+
+---
+
+## 🛠️ Como executar localmente
+
+Siga os passos abaixo para rodar este projeto na sua máquina:
 
 1. Clone o repositório:
-git clone [URL do repositório]
 
-1. Navegue até a pasta do projeto e instale as dependências:
+```bash
+git clone [URL_DO_REPOSITORIO]
+````
+
+2. Acesse a pasta do projeto:
+
+```bash
 cd quiz-dragonball
+```
+
+3. Instale as dependências:
+
+```bash
 npm install
+```
 
-1. Inicie o servidor de desenvolvimento:
+4. Rode o servidor de desenvolvimento:
+
+```bash
 ng serve
+```
 
-1. Abra o navegador e acesse `http://localhost:4200`.
+5. Abra seu navegador e acesse:
 
+```
+http://localhost:4200
+```
 
+---
+
+## 💡 Melhorias Futuras (Roadmap)
+
+* ✅ Adicionar efeitos sonoros icônicos do anime 🔊
+* ✅ Ranking de jogadores 🏆
+* ✅ Timer por pergunta ⏳
+* ✅ Mais perguntas e níveis de dificuldade 📈
+* ✅ Suporte para múltiplos idiomas 🌐

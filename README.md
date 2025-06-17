@@ -23,15 +23,6 @@ Este projeto é um quiz interativo baseado no universo de Dragon Ball, desenvolv
 
 https://angular-quiz-six.vercel.app/
 
-
-
-## Demo
-
-
-
-https://github.com/Amadeo-Frontend/Angular-Quiz/assets/104178969/4d88892b-53d2-4bc2-902f-68ca4cb9c327
-
-
 ## Como Executar
 
 Para executar o projeto localmente, siga estas etapas:
